@@ -1,0 +1,13 @@
+npm i -g @nestjs/cli
+nest new projectname (use npm)
+code .
+//www.prisma.io > add existing project mongodb,
+npm install prisma --save-dev
+npx prisma
+npx prisma init
+npx prisma generate???
+npm install @prisma/client
+https://docs.nestjs.com/recipes/prisma
+
+
+
